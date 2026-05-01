@@ -63,3 +63,7 @@ GitHub에 코드를 올리면 자동으로 아래 작업을 실행합니다.
 - 빌드 확인
 
 `master`, `main`, 버전 태그에 push하면 Docker 이미지를 GitHub Container Registry에 게시합니다.
+
+## Contributors
+
+해당 작업을 도와주신 Codex와 코파일럿에게 감사드립니다.
